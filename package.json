@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@wdio/appium-service": "^9.0.9",
+    "webdriverio": "^9.0.9"
+  }
+}
