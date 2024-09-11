@@ -244,3 +244,8 @@ Chromedriver is needed for testing web views.
    npx wdio run wdio.conf.js
    ```
 
+## Acknowledgments
+
+I would like to extend my thanks to everyone who supported me during this mobile testing workshop. Special appreciation goes to my mentors @Divyang-27
+and colleagues @smrithi3 @Vasudhadas for their valuable help and support. Their insights have been crucial in refining my approach and improving the quality of this project. I also want to acknowledge the resources and tools provided by the broader testing community that helped enhance my understanding and skills.
+
